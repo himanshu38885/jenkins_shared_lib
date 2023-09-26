@@ -1,3 +1,3 @@
 def call(){
-    ./jfrog.py
+    sh './jfrog.py'
 }
